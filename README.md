@@ -1,8 +1,35 @@
-# React + Vite
+## iNotes App - Note taking App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## [Live Project Link]() 
+### Features
+#### CRUD Operations :
+- Create: Add new notes via a form.
+- Read: Fetch and display notes from local storage.
+- Update: Modify existing notes.
+- Delete: Remove notes permanently.
 
-Currently, two official plugins are available:
+#### Pagination :
+- Implement pagination to manage and navigate through lists of notes,
+- displaying 10 notes per page.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### Search Functionality :
+- Provide a search bar to filter notes by title or content.
+#### Timestamps :
+- Record and display the creation or last modification time for each note
+
+
+## Installation and Setup Instructions
+
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+
+Installation:
+
+`npm install`
+
+To Start Server:
+
+`npm run dev`  
+
+To Visit App:
+
+`localhost:5173`  
