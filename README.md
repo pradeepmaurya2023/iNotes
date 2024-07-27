@@ -1,6 +1,6 @@
 ## iNotes App - Note taking App
 
-## [Live Project Link]() 
+## [Live Project Link](https://inotesbypradeep.netlify.app/) 
 ### Features
 #### CRUD Operations :
 - Create: Add new notes via a form.
