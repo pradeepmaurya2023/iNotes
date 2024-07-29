@@ -9,11 +9,11 @@
 - Delete: Remove notes permanently.
 
 #### Pagination :
-- Implement pagination to manage and navigate through lists of notes,
+- Implemented pagination to manage and navigate through lists of notes,
 - displaying 10 notes per page.
 
 #### Search Functionality :
-- Provide a search bar to filter notes by title or content.
+- Provided a search bar to filter notes by title or content.
 #### Timestamps :
 - Record and display the creation or last modification time for each note
 
